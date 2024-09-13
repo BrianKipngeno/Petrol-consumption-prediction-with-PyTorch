@@ -82,4 +82,5 @@ After training, the model is used to make predictions on unseen data. Specifical
 The model predicts a gas consumption of 527.7 million gallons for the given observation.
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
